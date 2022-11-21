@@ -1,8 +1,8 @@
 # Welcome to my Profile: :floppy_disk:
-##Teicneolaíocht 💾 Technology
-##Raidió amaitéarach 📻 HAM Radio
-##Ríomhchlárú 💻 Programming
-##Linux 🐧
+## Teicneolaíocht 💾 Technology
+## Raidió amaitéarach 📻 HAM Radio
+## Ríomhchlárú 💻 Programming
+## Linux 🐧
 
 <!--
 **4f6973c3ad6e/4f6973c3ad6e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
